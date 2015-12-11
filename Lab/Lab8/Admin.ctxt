@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=idNo\ lastName\ firstName\ salary\ overRate
+comment0.target=Admin(int,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.params=overTime
+comment1.target=void\ setOverTime(double)
+comment2.params=
+comment2.target=double\ pay()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
